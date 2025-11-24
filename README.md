@@ -65,4 +65,4 @@ Download the dataset from Kaggle and place the file transactions.csv in the same
 Install the required dependencies:
 
    ```bash
-   pip install pandas numpy plotly torch
+   pip install pandas numpy plotly matplotlib seaborn torch
